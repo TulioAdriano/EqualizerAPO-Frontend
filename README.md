@@ -1,6 +1,6 @@
 # EqualizerAPO-Frontend
 Simple equalizer that will render as many bands as available on config.txt. 
-![screenshot](https://www.dropbox.com/s/o6o5ikl9k6imhv7/EQAPOFE.png?dl=1)
+![screenshot](https://i.ibb.co/3Fq3Vww/EQAPOFE.png "Equalizer APO Front End")
 ## What does it do
 This application will show a slider for the PreAmp and one for each band specified on the GraphicEQ line
 of the config file. Move the sliders to get immediate response of your changes.
