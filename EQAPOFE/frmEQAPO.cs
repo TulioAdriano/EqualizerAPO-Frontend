@@ -61,6 +61,7 @@ namespace EQAPOFE
                         Name = $"sliderBand{i + 1}",
                         Maximum = sliderBand1.Maximum,
                         Minimum = sliderBand1.Minimum,
+                        LargeChange = sliderBand1.LargeChange,
                         TickFrequency = sliderBand1.TickFrequency,
                         Orientation = sliderBand1.Orientation,
                         TickStyle = sliderBand1.TickStyle,
